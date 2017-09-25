@@ -2,7 +2,7 @@
 // Controlar que la puerta esté cerrada
 import java.util.*;
 
-public class Espaguetti{
+public class Spaghetti{
 
   private int Gog;
    
