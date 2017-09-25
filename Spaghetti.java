@@ -1,5 +1,7 @@
 /* Ejemplo de Código Espagueti*/
 // Controlar que la puerta esté cerrada
+import java.util.*;
+
 public class Espaguetti{
 
 public static void main(String [] args) {
