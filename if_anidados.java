@@ -6,7 +6,7 @@ public class Ifanidados{
         int k = 2;
         int f = 20;
         
-        while (i=0){
+        while (i==0){
             if (j<f){
                 if (k>j){
                     if (k < f){
