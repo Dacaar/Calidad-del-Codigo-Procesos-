@@ -1,19 +1,20 @@
 /* Ejemplo de Código Espagueti*/
 // Controlar que la puerta esté cerrada
-main() {
+public class Espaguetti{
+
+public static void main(String [] args) {
   while(TRUE) {
-    while (!(puerta_cerrada())
-      ;
+    while (!(puerta_cerrada());
       
 // Empezar con el llenado de agua
     while (!(NIVEL_AGUA_OK)) {
       if (puerta_cerrada()) {
         valvula_agua(ABRIR);
           compartimento_detergente(ABRIR);
-      } else
+      } else {
          valvula_agua(CERRAR);
       }
-
+    }
 
     if (SELECCION_AGUA_CALIENTE) {
       while (tiempo <= TIEMPO_CALENTAMIENTO) {
@@ -35,4 +36,5 @@ main() {
     ++tiempo;
    }
   }
+}
 }
