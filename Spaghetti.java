@@ -4,6 +4,8 @@ import java.util.*;
 
 public class Espaguetti{
 
+  private int Gog;
+   
 public static void main(String [] args) {
   while(TRUE) {
     while (!(puerta_cerrada());
