@@ -7,13 +7,11 @@ public class Ifanidados{
         int f = 20;
         
         while (i==0){
-            if (j<f){
                 if (k>j){
                     if (k < f){
                         k++;
                     }
                 }
-            }
             j++;
          }
      }
