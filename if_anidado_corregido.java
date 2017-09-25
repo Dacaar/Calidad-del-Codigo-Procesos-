@@ -8,10 +8,8 @@ public class Ifanidado{
         int f = 20;
         
         while (i == 0) {
-            if (j<f){
-                if (k>j && k<f){
-                    k++;
-                }
+            if (k>j && k<f){
+                k++;
             }
             ++j;
         }
